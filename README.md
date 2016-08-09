@@ -3,4 +3,5 @@
 
 官方客户端学习
 
-学习smartgit
+# 学习smartgit
+
